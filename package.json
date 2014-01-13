@@ -1,0 +1,38 @@
+{
+    "name":        "locomotive-primus",
+    "version":     "0.0.0",
+    "description": "Locomotive handlers for Primus WebSockets abstraction layer",
+    "main":        "./lib/index.js",
+    "scripts":     {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository":  {
+        "type": "git",
+        "url":  "https://github.com/OtaK/locomotive-primus.git"
+    },
+    "dependencies": {
+        "debug": "0.7.x",
+        "primus": "1.5.x"
+    },
+    "keywords":    [
+        "locomotive",
+        "primus",
+        "websockets",
+        "socket.io",
+        "sockjs",
+        "express"
+    ],
+    "author":      {
+        "name":  "Mathieu Amiot",
+        "email": "m.amiot@otak-arts.com",
+        "url":   "http://www.mathieu-amiot.fr/"
+    },
+    "license":     "Apache 2.0",
+    "bugs": {
+        "url": "https://github.com/OtaK/locomotive-primus/issues"
+    },
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "readmeFilename": "README.md"
+}
