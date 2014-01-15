@@ -21,7 +21,7 @@ The module boots primus using the provided options and `this.server` and then ex
 In your locomotive `server.js` file, use the following code.
 
 ```
-var primusLocomotive = require(__dirname + '/app/helpers/primus/locomotive-primus');
+var primusLocomotive = require('locomotive-primus');
 ...
 
 
