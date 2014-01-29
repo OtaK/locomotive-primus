@@ -50,3 +50,7 @@ A more comprehensive documentation will be included later
 ## License
 
 Apache 2.0
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/OtaK/locomotive-primus/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
