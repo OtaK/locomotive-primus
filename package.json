@@ -12,7 +12,7 @@
     },
     "dependencies": {
         "debug": "0.7.x",
-        "primus": "1.5.x"
+        "primus": "2.1.x"
     },
     "keywords":    [
         "locomotive",
