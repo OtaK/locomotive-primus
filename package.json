@@ -1,6 +1,6 @@
 {
     "name":        "locomotive-primus",
-    "version":     "0.1.2",
+    "version":     "1.0.0",
     "description": "Locomotive handlers for Primus WebSockets abstraction layer",
     "main":        "./lib/index.js",
     "scripts":     {
@@ -11,7 +11,8 @@
         "url":  "https://github.com/OtaK/locomotive-primus.git"
     },
     "dependencies": {
-        "debug": "0.7.x"
+        "debug": "0.7.x",
+        "sticky-session": "1.0.x"
     },
     "keywords":    [
         "locomotive",
